@@ -7,6 +7,7 @@ A real-time visualisation of the GHG and CO2 footprint of electricity generation
 
 Consider [contributing](#contribute) or submit ideas, feature requests or bugs on the [issues](https://github.com/corradio/electricitymap/issues) page.
 
+test
 
 ## Data sources
 
